@@ -1,0 +1,2 @@
+This project was created during passing javascript courses with tutor Jonas Schmedtmann at home 😁. you can see the DEMO of it in https://bankist.netlify.app/. after visiting this DEMO version with all the materials I learned in javascript  finally made the bankist app like the DEMO version.
+User acconts and User password are hard-coded it is visible at the top of script.js. it was just like a big practice that made me to remember all the things I acquired and put them into practice and think like a pro programmer.
