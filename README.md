@@ -2,7 +2,7 @@
 
 A sleek and interactive banking application UI built with HTML, CSS, and JavaScript, simulating a real-world banking experience. Users can log in, transfer money, request loans, close accounts, and track transactions dynamically
 
-### 🔗[Live Demo](https://pizza-menu-eosin.vercel.app/)
+### 🔗[Live Demo](https://bankist-app-alpha-ecru.vercel.app/)
 
 ## 📖 Project Summary
 
@@ -16,7 +16,7 @@ Bankist is a front-end project showcasing modern JavaScript concepts like DOM ma
 * 🏦 Loan Requests with basic approval logic
 * ❌ Account Closure with validation
 * 📊 Balance & Summary Display (In, Out, Interest)
-* ⏳ Logout Timer for session handling
+* ⏳ Logout Timer
 * 📅 Internationalized Dates & Currency Formatting
 * 🔃 Transaction Sorting
 
