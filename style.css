@@ -62,7 +62,8 @@ body {
     grid-row: 2 / span 3;
     background-color: #fff;
     border-radius: 1rem;
-    overflow: scroll;
+    max-height: 35rem;
+    overflow-y: scroll;
     width: 100%;
   }
   .summary {
@@ -148,6 +149,7 @@ body {
     gap: 2rem;
     flex-wrap: nowrap;
     width: 100%;
+    height: 48rem;
     margin: 0 auto;
   }
   .operation-group {
@@ -155,12 +157,14 @@ body {
     flex-direction: column;
     gap: 4px;
     width: 50%;
+    height: 100%;
   }
   .movements {
     grid-row: 2 / span 3;
     background-color: #fff;
     border-radius: 1rem;
-    overflow: scroll;
+    overflow-y: scroll;
+    height: 100%;
     width: 50%;
   }
 
