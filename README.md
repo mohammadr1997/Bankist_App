@@ -21,7 +21,7 @@ Bankist is a front-end project showcasing modern JavaScript concepts like DOM ma
 * 🔃 Transaction Sorting
 
 ## 📁 Project Structure
-```bash
+#### ```bash
 bankist/
 ├── index.html # Main HTML structure
 ├── style.css # CSS for styling the app
@@ -35,3 +35,7 @@ bankist/
 - HTML5 – semantic layout and structure
 - CSS3 – custom styling and layout
 - Vanilla JavaScript (ES6+) – functionality, DOM manipulation, data formatting
+
+### 🧑‍💻 Author
+###### Mohammad Baghban Rezaee
+###### GitHub: https://github.com/mohammadr1997
