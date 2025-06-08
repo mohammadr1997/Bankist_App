@@ -21,7 +21,7 @@ Bankist is a front-end project showcasing modern JavaScript concepts like DOM ma
 * 🔃 Transaction Sorting
 
 ## 📁 Project Structure
-#### ```bash
+ ```bash
 bankist/
 ├── index.html # Main HTML structure
 ├── style.css # CSS for styling the app
